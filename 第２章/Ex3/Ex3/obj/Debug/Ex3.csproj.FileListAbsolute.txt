@@ -1,0 +1,7 @@
+D:\work\CSharp\Charp2\Ex3\Ex3\bin\Debug\Ex3.exe.config
+D:\work\CSharp\Charp2\Ex3\Ex3\bin\Debug\Ex3.exe
+D:\work\CSharp\Charp2\Ex3\Ex3\bin\Debug\Ex3.pdb
+D:\work\CSharp\Charp2\Ex3\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
+D:\work\CSharp\Charp2\Ex3\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+D:\work\CSharp\Charp2\Ex3\Ex3\obj\Debug\Ex3.exe
+D:\work\CSharp\Charp2\Ex3\Ex3\obj\Debug\Ex3.pdb

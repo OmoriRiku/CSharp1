@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\CSharp\\Charp2\\MySample3_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C981AB5-69B4-4C9F-A4F6-CA985CF0C4E7}|MySample3_13\\MySample3_13.csproj|d:\\work\\csharp\\charp2\\mysample3_13\\mysample3_13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C981AB5-69B4-4C9F-A4F6-CA985CF0C4E7}|MySample3_13\\MySample3_13.csproj|solutionrelative:mysample3_13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\CSharp\\Charp2\\MySample3_13\\MySample3_13\\Program.cs",
+              "RelativeDocumentMoniker": "MySample3_13\\Program.cs",
+              "ToolTip": "D:\\work\\CSharp\\Charp2\\MySample3_13\\MySample3_13\\Program.cs",
+              "RelativeToolTip": "MySample3_13\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:33:26.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

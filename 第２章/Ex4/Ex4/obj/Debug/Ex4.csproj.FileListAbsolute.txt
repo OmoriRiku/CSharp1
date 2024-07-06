@@ -1,0 +1,7 @@
+D:\work\CSharp\Charp2\Ex4\Ex4\bin\Debug\Ex4.exe.config
+D:\work\CSharp\Charp2\Ex4\Ex4\bin\Debug\Ex4.exe
+D:\work\CSharp\Charp2\Ex4\Ex4\bin\Debug\Ex4.pdb
+D:\work\CSharp\Charp2\Ex4\Ex4\obj\Debug\Ex4.csproj.AssemblyReference.cache
+D:\work\CSharp\Charp2\Ex4\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+D:\work\CSharp\Charp2\Ex4\Ex4\obj\Debug\Ex4.exe
+D:\work\CSharp\Charp2\Ex4\Ex4\obj\Debug\Ex4.pdb

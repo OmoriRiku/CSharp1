@@ -1,0 +1,7 @@
+D:\work\CSharp\Charp2\MySample3_13\MySample3_13\bin\Debug\MySample3_13.exe.config
+D:\work\CSharp\Charp2\MySample3_13\MySample3_13\bin\Debug\MySample3_13.exe
+D:\work\CSharp\Charp2\MySample3_13\MySample3_13\bin\Debug\MySample3_13.pdb
+D:\work\CSharp\Charp2\MySample3_13\MySample3_13\obj\Debug\MySample3_13.csproj.AssemblyReference.cache
+D:\work\CSharp\Charp2\MySample3_13\MySample3_13\obj\Debug\MySample3_13.csproj.CoreCompileInputs.cache
+D:\work\CSharp\Charp2\MySample3_13\MySample3_13\obj\Debug\MySample3_13.exe
+D:\work\CSharp\Charp2\MySample3_13\MySample3_13\obj\Debug\MySample3_13.pdb

@@ -1,0 +1,7 @@
+D:\work\CSharp\Charp2\Ex2\Ex2\bin\Debug\Ex2.exe.config
+D:\work\CSharp\Charp2\Ex2\Ex2\bin\Debug\Ex2.exe
+D:\work\CSharp\Charp2\Ex2\Ex2\bin\Debug\Ex2.pdb
+D:\work\CSharp\Charp2\Ex2\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+D:\work\CSharp\Charp2\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+D:\work\CSharp\Charp2\Ex2\Ex2\obj\Debug\Ex2.exe
+D:\work\CSharp\Charp2\Ex2\Ex2\obj\Debug\Ex2.pdb

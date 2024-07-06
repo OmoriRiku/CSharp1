@@ -1,0 +1,7 @@
+D:\work\CSharp\Hello\MySample\MySample\bin\Debug\MySample.exe.config
+D:\work\CSharp\Hello\MySample\MySample\bin\Debug\MySample.exe
+D:\work\CSharp\Hello\MySample\MySample\bin\Debug\MySample.pdb
+D:\work\CSharp\Hello\MySample\MySample\obj\Debug\MySample.csproj.AssemblyReference.cache
+D:\work\CSharp\Hello\MySample\MySample\obj\Debug\MySample.csproj.CoreCompileInputs.cache
+D:\work\CSharp\Hello\MySample\MySample\obj\Debug\MySample.exe
+D:\work\CSharp\Hello\MySample\MySample\obj\Debug\MySample.pdb

@@ -1,0 +1,7 @@
+C:\Users\oomor\source\repos\MySample3_9\MySample3_9\bin\Debug\MySample3_9.exe.config
+C:\Users\oomor\source\repos\MySample3_9\MySample3_9\bin\Debug\MySample3_9.exe
+C:\Users\oomor\source\repos\MySample3_9\MySample3_9\bin\Debug\MySample3_9.pdb
+C:\Users\oomor\source\repos\MySample3_9\MySample3_9\obj\Debug\MySample3_9.csproj.AssemblyReference.cache
+C:\Users\oomor\source\repos\MySample3_9\MySample3_9\obj\Debug\MySample3_9.csproj.CoreCompileInputs.cache
+C:\Users\oomor\source\repos\MySample3_9\MySample3_9\obj\Debug\MySample3_9.exe
+C:\Users\oomor\source\repos\MySample3_9\MySample3_9\obj\Debug\MySample3_9.pdb
