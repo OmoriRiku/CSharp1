@@ -1,0 +1,7 @@
+D:\work\CSharp\CSharp1\第５章\MySample5_2\MySample5_2\bin\Debug\MySample5_2.exe.config
+D:\work\CSharp\CSharp1\第５章\MySample5_2\MySample5_2\bin\Debug\MySample5_2.exe
+D:\work\CSharp\CSharp1\第５章\MySample5_2\MySample5_2\bin\Debug\MySample5_2.pdb
+D:\work\CSharp\CSharp1\第５章\MySample5_2\MySample5_2\obj\Debug\MySample5_2.csproj.AssemblyReference.cache
+D:\work\CSharp\CSharp1\第５章\MySample5_2\MySample5_2\obj\Debug\MySample5_2.csproj.CoreCompileInputs.cache
+D:\work\CSharp\CSharp1\第５章\MySample5_2\MySample5_2\obj\Debug\MySample5_2.exe
+D:\work\CSharp\CSharp1\第５章\MySample5_2\MySample5_2\obj\Debug\MySample5_2.pdb

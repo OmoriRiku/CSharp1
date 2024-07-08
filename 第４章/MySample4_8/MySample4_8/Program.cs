@@ -25,13 +25,12 @@ namespace MySample4_8
                     Console.WriteLine("13時から15時をご希望ですね。");
                     break;
                 case 3:
-                    Console.WriteLine("15じから18時をご希望ですね。");
+                    Console.WriteLine("15時から18時をご希望ですね。");
                     break;
                 default:
-                    Console.WriteLine("入力した値には誤りがあります。");
+                    Console.WriteLine("1～3を入力してください。");
                     break;
             }
-
         }
     }
 }
