@@ -1,0 +1,7 @@
+D:\work\CSharp\CSharp1\基本情報技術者\MakeNewArray\MakeNewArray\bin\Debug\MakeNewArray.exe.config
+D:\work\CSharp\CSharp1\基本情報技術者\MakeNewArray\MakeNewArray\bin\Debug\MakeNewArray.exe
+D:\work\CSharp\CSharp1\基本情報技術者\MakeNewArray\MakeNewArray\bin\Debug\MakeNewArray.pdb
+D:\work\CSharp\CSharp1\基本情報技術者\MakeNewArray\MakeNewArray\obj\Debug\MakeNewArray.csproj.AssemblyReference.cache
+D:\work\CSharp\CSharp1\基本情報技術者\MakeNewArray\MakeNewArray\obj\Debug\MakeNewArray.csproj.CoreCompileInputs.cache
+D:\work\CSharp\CSharp1\基本情報技術者\MakeNewArray\MakeNewArray\obj\Debug\MakeNewArray.exe
+D:\work\CSharp\CSharp1\基本情報技術者\MakeNewArray\MakeNewArray\obj\Debug\MakeNewArray.pdb
